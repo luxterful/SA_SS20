@@ -8,6 +8,10 @@
 
     brew cask install basictex
 
+### Cite Tool
+
+    brew install pandoc-citeproc
+
 # export
 
     make pdf
