@@ -1,24 +1,9 @@
-% Erhöhen der Nutzerbeteiligung auf einer „digital procurement marketplace platform“ mit der Verwendung von gamification.
-% Lukas Bauer
-% 20. Juni 2020
-
-### Abstract
-
-Zusammenfassung ca. 5-10 Zeilen in Arial 8, Blocksatz Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit ame
-
-**Keywords**: gamification, eprocurement, supply chain, digitalisierung
-
-# 1. Einleitung
-
-Die folgende Arbeit befasst sich mit der Analyse eines Gamification Ansatzes um die Nutzerbeteiligung in einem „digital procurement marketplace platform“ zu erhöhen.
-
-In der heutigen Gesellschaft schreitet digitalisierung in immer mehr bisher analoge Bereiche vor und beschleunigt diese sehr.
-Zunächst werde die wichtigsten Begriffe erklärt und in den richtigen Kontext gebracht. Danach wird der Prozess des eprocurements analysiert und auf mögliche Verbesserungspunkte mit gamification analysiert. Zum Schluss werden Hypothesen aufgestellt in welchen eine empfehlung ausgesprochen wird wie und an welcher Stelle der Prozess mit Gamification verbessert werden kann.
-
 # 2. Grundlagen
 
 Procurement → eProc → gamification → human focused design → frameworks → prozess
+
 playertypes
+
 Procurement ist der Vorgang in welchem ein Unternehmen versucht ein bestimmtest Produkt innerhalb einer definierten Preis- und Qualitätsspanne zu finden. Ein sogenannter Supplier (dt. Zulieferer) stellt Produkte zur Verfügung und ein sogenannter Purchaser (dt. Käufer) kauft diese Produkte.
 
 procurement ist so ein ding bei dem es um beschaffung von gütern geht, so supplier bieten ihre produkte an und purchaser kaufen diese produkte
