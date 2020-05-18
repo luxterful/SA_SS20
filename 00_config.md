@@ -1,5 +1,5 @@
 ---
-title: "Erhöhen der Nutzerbeteiligung auf einer „digital procurement marketplace platform“ mit der Verwendung von gamification."
+title: "Erhöhen der Nutzerinteraktion auf einer „digital procurement marketplace platform“ mit Hilfe von gamification."
 author: Lukas Bauer
 date: 20. Juni 2020
 geometry:

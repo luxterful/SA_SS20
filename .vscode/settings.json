@@ -1,3 +1,5 @@
 {
-  "PandocCiter.RootFile": "./thesis/00_config.md"
+  "PandocCiter.RootFile": "00_config.md",
+  "PandocCiter.UseDefaultBib": false,
+  "PandocCiter.ShowLog": true
 }
