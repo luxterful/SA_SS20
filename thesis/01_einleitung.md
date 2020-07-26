@@ -12,6 +12,8 @@ Traditionell wurde schon seit Beginn der Digitalisierung das Porcurement durch d
 
 Ein weiterer Trend in der digitalen Welt entstand durch den Erfolg von Spielen. Forscher haben herausgefunden, dass ganz bestimmte Elemente in Spielen zur Motvation des Spielers beitragen. Das gezielte Einsetzen dieser Elemente in spielfreien Kontexten nennt man Gamification. [@Hamari2014]
 
+# 2. Zielsetzung
+
 Es stellt sich jetzt die Frage, wie man Spielelemente einsetzen kann, um die Interaktion der Benutzer mit einer digitalen Procurment Marketplace Plattform zu erhöhen. Daher befasst sich die vorliegende Arbeit mit dieser Frage. Zunächst werden die wichtigsten Begriffe erklärt und in den richtigen Kontext gebracht. Danach wird der Prozess des eProcurements analysiert und auf mögliche Verbesserungspunkte mithilfe von Gamification analysiert.
 
 Die Analyse des Prozesses wird zunächst mit einem Experteninterview eingeleitet. Im zweiten Schritt werden durch Design Workshops die bisherigen Ergebnisse geordnet und priorisiert. Zum Schluss werden Hypothesen aufgestellt, in welchen eine Empfehlung ausgesprochen wird, wie und an welcher Stelle der Prozess mit Gamification verbessert werden könnte.
