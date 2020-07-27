@@ -68,14 +68,14 @@ Um die Hypothesen greifbarer zu machen wurde falls nötig auf real existierene B
 
 Core Drives:
 
-- Development & Acomplishment (Die Errungenschaft erreicht ein Profilbild hochzuladen und den Task abzuschließen)
-- Ownership & Possession (Besitz des eigenen Profils und Drang dieses gut zu pflegen)
+- Development & Acomplishment
+- Ownership & Possession
 
-Vergleiche Streamelements
+!["Vergleiche Streamelements"](assets/streamelements.png)
 
 ## 4.3.2. Beschreibung
 
-1. Mindestlänge der Beschreibung
+1. Länge der Beschreibung
 2. /
 3. Beschreibung ausfüllen mit passender Länge
 4. ToDos’ (Progressbar) + Metrik an Textbox
@@ -85,6 +85,8 @@ Core Drives:
 
 - Development & Acomplishment (Die Errungenschaft erreicht ein Profilbild hochzuladen und den Task abzuschließen)
 - Ownership & Possession (Besitz des eigenen Profils und Drang dieses gut zu pflegen)
+
+!["Beschreibung"](assets/beschreibung.png)
 
 ## 4.3.3. Chat
 
@@ -100,4 +102,4 @@ Core Drives:
 - Loss & Avoidance
 - Social Influence & Relatedness
 
-Vergleiche Ebay Kleinanzeigen
+!["Vergleiche Ebay-Kleinanzeigen"](assets/kleinanzeigen.jpg)

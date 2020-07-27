@@ -20,7 +20,7 @@ Der Onboarding Prozess ist das erstmalige Aufrufen der Plattform. Hier wird unte
 
 ## 3.2. Gamification
 
-Der Begriff "Gamification" tauchte 2008 erstmals auf. Bis in die zweiten Hälfte in 2010 existierten jedoch viele verschiedene Begrifflichkeiten als synonyme für Gamification. Daher definierte @Deterding2011 den Begriff als die Verwendung von Spiel Design Element in spielfremden Kontexten. Die Besonderheit von Gamification ist, dass unter anderem der Benutzer in den Vordergrund der Beobachtung rückt. Diese Art des Designs wird "Human / User focused Design" genannt. Dieses Design Konzept ist im Gegensatz zu “Function focused design” eine Herangehensweise bei der man nicht auf die zu implementierenden Funktionen achtet sondern eher den Menschen / Benutzer in den Vordergrund stellt und seine Bedürfnisse betrachtet.
+Der Begriff "Gamification" tauchte 2008 erstmals auf. Bis in die zweiten Hälfte in 2010 existierten jedoch viele verschiedene Begrifflichkeiten als synonyme für Gamification. Daher definierte @Deterding2011 den Begriff als die Verwendung von Spiel Design Element in spielfremden Kontexten. Die Besonderheit von Gamification ist, dass unter anderem der Benutzer in den Vordergrund der Beobachtung rückt. Diese Art des Designs wird "Human / User focused Design" genannt. Dieses Design Konzept ist im Gegensatz zu “Function focused design” eine Herangehensweise bei der man nicht auf die zu implementierenden Funktionen achtet sondern eher den Menschen / Benutzer in den Vordergrund stellt und seine Bedürfnisse betrachtet. [@Nielsen2013]
 
 !["Ocatlysis acht Core Drives"](assets/actalysis.jpg){ width=60% }
 
