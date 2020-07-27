@@ -33,7 +33,7 @@ Erst wurden die Mitschriften des Experteninterviews durchgesprochen. Hierfür wu
 
 ## 4.2.2 Workshop 2
 
-Im zweiten Workshop wurde zum Priosieren der Tasks die "Dot Voting" Technik angewandt. Hierbei handelt es sich um eine Priorisierungsmethode bei der jedes Teammitglied farbige Punkte erhält und diese den unterschiedlichen Tasks zuweist. Die Zweisung der Tasks ist in der Regel die Wichtigkeit des Tasks nach eigenem Ermessen. Im Anschluss werden die Punkte für jeden Task gezählt und eine bestimmte anzahl an Tasks mit den meisten Punkten werden umgesetzt. [@Dalton2019]
+Im zweiten Workshop wurde zum Priorisieren der Tasks die "Dot Voting" Technik angewandt. Hierbei handelt es sich um eine Priorisierungsmethode bei der jedes Teammitglied farbige Punkte erhält und diese den unterschiedlichen Tasks zuweist. Die Zweisung der Tasks ist in der Regel die Wichtigkeit des Tasks nach eigenem Ermessen. Im Anschluss werden die Punkte für jeden Task gezählt und eine bestimmte anzahl an Tasks mit den meisten Punkten werden umgesetzt. [@Dalton2019]
 
 Zunächste wurde in einem 6 Minuten Zeitslot jeder Person drei Punkte zur Verfügung gestellt um die 3 wichtigesten Tasks auszuwählen. Daraufhin gab es einen weiteren 3 Minuten Zeitslot in der jede Person begründen sollte, weshalb die Wahl auf gerade diese Tasks gefallen ist.
 
@@ -68,7 +68,7 @@ Core Drives:
 
 Als Metrik wurde die Anzahl der Profile auf der ganzen Plattform welche ein Profilbild haben definiert. Erhöht sich diese Anzahl nachdem diese Gamification implementiert wurde, war es eine erfolgreiche Anpassung. Die durchzuführende Aktion des Users ist das hochladen eines Profilbilds. An diese Aktion erinnert eine Progressbar oberhalb des Profils zusammen mit einem ToDo Punkt direkt darunter. Schließt der User dieses Todo ab so wird es als Abgeschlossen angezeigt und die Progressbar vergrößert sich. Somit erhält er ein Achievement.
 
-Der Coredrive Development & Acomplishment löst den Drang aus endlich das Todo zu erledigen und einen Fortschritt zu erlangen. Ownership & Possession ist die Fürsorge für das eigene Profil und dieses möglichst gut zu pflegen
+Der Coredrive Development & Acomplishment löst den Drang aus, endlich das Todo zu erledigen und einen Fortschritt zu erlangen. Ownership & Possession ist die Fürsorge für das eigene Profil und dieses möglichst gut zu pflegen.
 
 !["Vergleiche Streamelements"](assets/streamelements.png)
 
@@ -85,7 +85,7 @@ Core Drives:
 - Development & Acomplishment
 - Ownership & Possession
 
-Als Metrik dient hier die länge der Beschreibung eines Profils. Wird diese im Durchschnitt aller Profile größer so war die Implementierung eine Sinnvolle Änderung. Als desired action ist hier das ausfüllen der Beschreibung mit einer definierten Länge X festgelegt. Die Feedback Mechanik und Belohnung überschneidet sich mit 4.3.1., hat aber zusätzlich eine kleine Metrik an der Textbox die einen grünen Haken anzeigt sobald die Länge X erreicht wurde.
+Als Metrik dient hier die länge der Beschreibung eines Profils. Wird diese im Durchschnitt aller Profile größer, so war die Implementierung eine sinnvolle Änderung. Als desired Action ist hier das Ausfüllen der Beschreibung mit einer definierten Länge X festgelegt. Die Feedback Mechanik und Belohnung überschneidet sich mit 4.3.1., hat aber zusätzlich eine kleine Metrik an der Textbox die einen grünen Haken anzeigt, sobald die Länge X erreicht wurde.
 
 Die Coredrives hier sind identisch zu 4.3.2.
 
@@ -105,6 +105,6 @@ Core Drives:
 - Loss & Avoidance
 - Social Influence & Relatedness
 
-Um die Antwortrate im Chat zu messen wird als Metrik die Zeit zwischen geschriebenen Nachrichten gemessen. Sollte sich diese nach der Implementierung der Gamification Elemente verkleinern so ist die Maßnahme erfolgreich. Gelöst ist die Gamification hier mit einem "gesehen" Flag im Chat und einem zusätzlichen Badge im Profil des Benutzers. Dieses Badge zeigt die durchschnittliche Antwortzeit eines Nutzers an. Die Belohnung gibt sich der User hier selbst indem er durch schnelle Antworten das Badge in seinem Profil möglichst klein hält.
+Um die Antwortrate im Chat zu messen wird als Metrik die Zeit zwischen geschriebenen Nachrichten gemessen. Sollte sich diese nach der Implementierung der Gamification Elemente verkleinern, so ist die Maßnahme erfolgreich. Gelöst ist die Gamification hier mit einem "gesehen" Flag im Chat und einem zusätzlichen Badge im Profil des Benutzers. Dieses Badge zeigt die durchschnittliche Antwortzeit eines Nutzers an. Die Belohnung gibt sich der User hier selbst, indem er durch schnelle Antworten das Badge in seinem Profil möglichst klein hält.
 
 !["Vergleiche Ebay-Kleinanzeigen"](assets/kleinanzeigen.jpg)
