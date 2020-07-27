@@ -6,7 +6,7 @@ Um herauszufinden wie Gamification dazu benutzt werden kann, den Procurement Pro
 
 # 4.1. Expertengespräch
 
-In einem Expertengespräche (siehe Anhang 1) wurde ermittelt welche Bereiche einer eProcurement Marketplace Plattform verbesserungswürdig sind. Dieses Gespräch wurde mit zwei Mitarbeitern der Scoutbee GmbH in Würzburg durchgeführt. Diese arbeiten im Delivery Team, welches sich darum kümmert, dass der User in die Plattform eingearbeitet wird und sich dort auch zurecht findet. Somit haben diese Mitarbeiter den engsten Kontakt mit den Kunden und stellten aufgrund dessen eine richtungsweisende Möglichkeit für den Aufbau dieser wissenschaftlichen Arbeit dar. Die häufigsten Probleme sind folgende.
+In einem Expertengespräche (siehe Anhang 1) wurde ermittelt welche Bereiche einer eProcurement Marketplace Plattform verbesserungswürdig sind. Dieses Gespräch wurde mit zwei Mitarbeitern der Scoutbee GmbH in Würzburg durchgeführt. Diese arbeiten im Delivery Team, welches sich darum kümmert, dass der User in die Plattform eingearbeitet wird und sich dort auch zurecht findet. Somit haben diese Mitarbeiter den engsten Kontakt mit den Kunden und stellten aufgrund dessen eine richtungsweisende Möglichkeit für den Aufbau dieser wissenschaftlichen Arbeit dar.
 
 Da es bei einer solchen Plattform ganz besonders um soziale Interaktion geht, ist besonders die soziale Features in Fokus. Nachfolgend eine Liste der 6 wichtigesten Punkte aus dem Expertengespräch.
 
@@ -17,7 +17,7 @@ Da es bei einer solchen Plattform ganz besonders um soziale Interaktion geht, is
 - Keine Motivationm, das Profil auszufüllen
 - Keine Benchmarks für qualitative Profildaten
 
-Die Priosierung geschah durch eigene Angabe der Intervieten. Für eine vollständige Liste aller Punkte aus dem Interview Siehe Anlage 1.
+Die Priosierung geschah durch eigene Angabe der Intervieten. Für eine vollständige Liste aller Punkte aus dem Interview siehe Anlage 1.
 
 # 4.2. Design Workshops
 
@@ -27,11 +27,9 @@ In den jeweiligen Workshops wurden Timeboxing Techniken angewandt. Hierbei wird 
 
 ## 4.2.1 Workshop 1
 
-Im ersten Workshop wurden die Mitschriften des Experteninterviews durchgesprochen. Hierfür wurde der Timer auf 15 Minuten gesetzt. In einem zweiten Timeslot wurden eigene Ideen gesammelt wofür weitere 10 Minuten vorgesehen waren.
+Im ersten Workshop wurde auf eine abgewandelte Form des Brainstormings gesetzt. Auf dem digitalen Whiteboard miro.com wurden alle Ideen in spezifische Tasks unterteilt. Jeder Task wurde auf ein digitales Postit(Merkzettel) geschrieben.
 
-Hierbei wurde auf eine abgewandelte Form des Brainstormings gesetzt. Auf dem digitalen Whiteboard miro.com wurden alle Ideen in spezifische Tasks unterteilt. Jeder Task wurde auf ein digitales Postit(Merkzettel) geschrieben.
-
-Nachdem Ablauf des Timers wurde die eigenen Ideen diskutiert für was weitere 10 Minuten eingesetzt wurden.
+Erst wurden die Mitschriften des Experteninterviews durchgesprochen. Hierfür wurde der Timer auf 15 Minuten gesetzt. In einem zweiten Timeslot wurden eigene Ideen gesammelt wofür weitere 10 Minuten vorgesehen waren. Nachdem Ablauf des Timers wurde die eigenen Ideen diskutiert für was weitere 10 Minuten eingesetzt wurden.
 
 ## 4.2.2 Workshop 2
 
@@ -39,21 +37,18 @@ Im zweiten Workshop wurde zum Priosieren der Tasks die "Dot Voting" Technik ange
 
 Zunächste wurde in einem 6 Minuten Zeitslot jeder Person drei Punkte zur Verfügung gestellt um die 3 wichtigesten Tasks auszuwählen. Daraufhin gab es einen weiteren 3 Minuten Zeitslot in der jede Person begründen sollte, weshalb die Wahl auf gerade diese Tasks gefallen ist.
 
-In einem weiteren Schritt wurde in einem 5 minuten Slot für die dre Tasks mit den meisten Punkten die Wichtigkeit bzw. Reihenfolge festgelegt. Hierzu erhielt jede Person 3 Punkte mit drei unterschiedlichen Größen. Je größer der Punkt, desto wichtiger der Task. Danach wurde wieder ein 10 Minuten Slot für Diskussionen gemacht in dem jeder Teilnehmer seine Wahl begründen sollte.
+In einem weiteren Schritt wurde in einem 5 Minuten Slot für die drei Tasks mit den meisten Punkten die Wichtigkeit bzw. Reihenfolge festgelegt. Hierzu erhielt jede Person 3 Punkte mit drei unterschiedlichen Größen. Je größer der Punkt, desto wichtiger der Task. Danach wurde wieder ein 10 Minuten Slot für Diskussionen gemacht in dem jeder Teilnehmer seine Wahl begründen sollte.
 
-Als Ergebnis aus dem letzten Durchgang wurden zwei Tasks ausgewählt:
+Als Ergebnis aus dem letzten Durchgang wurden die zwei Tasks mit der höchsten Punktzahl ausgewählt. Da die Verbesserung des Firmen Profils eine sehr grobe angabe war wurden Beispielhaft zwei spezifische Tasks herausgenommen. Diese sind:
 
 - Verbesserung der Firmen Profile
+  - Hochladen von Profilbildern
+  - Beschreibungstext der Firma
 - Verringerung der Antwortzeit im Chat
-
-Da die Verbesserung des Firmen Profils eine sehr grobe angabe war wurden Beispielhaft zwei spezifische Tasks herausgenommen. Diese sind:
-
-- Hochladen von Profilbildern
-- Beschreibungstext der Firma
 
 # 4.3. Gamification Diskussion
 
-Die drei wichtigsten Tasks aus den Design Workshops wurden im letzten Schritt in einer Gamification Diskussion in Hypothesen umgewandelt.
+Die drei Tasks aus den Design Workshops wurden im letzten Schritt in einer Gamification Diskussion in Hypothesen umgewandelt.
 Hierbei wurde das Octalysis Strategy Dashboard angewandt. Da die Spielertypen, wie bereits erwähnt, in der Arbeit nicht relevant sind, wurde Punkt zwei jeweils übersprungen. Zudem wurden für jede Gamifizierung auch die Coredrives definiert um zu überprüfen ob diese Sinnvoll angewendet werden.
 
 Um die Hypothesen greifbarer zu machen wurde falls nötig auf real existierene Beispiele anderer Plattformen zurückgegriffen.
@@ -71,20 +66,28 @@ Core Drives:
 - Development & Acomplishment
 - Ownership & Possession
 
+Als Metrik wurde die Anzahl der Profile auf der ganzen Plattform welche ein Profilbild haben definiert. Erhöht sich diese Anzahl nachdem diese Gamification implementiert wurde, war es eine erfolgreiche Anpassung. Die durchzuführende Aktion des Users ist das hochladen eines Profilbilds. An diese Aktion erinnert eine Progressbar oberhalb des Profils zusammen mit einem ToDo Punkt direkt darunter. Schließt der User dieses Todo ab so wird es als Abgeschlossen angezeigt und die Progressbar vergrößert sich. Somit erhält er ein Achievement.
+
+Der Coredrive Development & Acomplishment löst den Drang aus endlich das Todo zu erledigen und einen Fortschritt zu erlangen. Ownership & Possession ist die Fürsorge für das eigene Profil und dieses möglichst gut zu pflegen
+
 !["Vergleiche Streamelements"](assets/streamelements.png)
 
 ## 4.3.2. Beschreibung
 
 1. Länge der Beschreibung
 2. /
-3. Beschreibung ausfüllen mit passender Länge
+3. Beschreibung ausfüllen mit passender Länge X
 4. ToDos’ (Progressbar) + Metrik an Textbox
 5. Achievement
 
 Core Drives:
 
-- Development & Acomplishment (Die Errungenschaft erreicht ein Profilbild hochzuladen und den Task abzuschließen)
-- Ownership & Possession (Besitz des eigenen Profils und Drang dieses gut zu pflegen)
+- Development & Acomplishment
+- Ownership & Possession
+
+Als Metrik dient hier die länge der Beschreibung eines Profils. Wird diese im Durchschnitt aller Profile größer so war die Implementierung eine Sinnvolle Änderung. Als desired action ist hier das ausfüllen der Beschreibung mit einer definierten Länge X festgelegt. Die Feedback Mechanik und Belohnung überschneidet sich mit 4.3.1., hat aber zusätzlich eine kleine Metrik an der Textbox die einen grünen Haken anzeigt sobald die Länge X erreicht wurde.
+
+Die Coredrives hier sind identisch zu 4.3.2.
 
 !["Beschreibung"](assets/beschreibung.png)
 
@@ -101,5 +104,7 @@ Core Drives:
 - Scarcity & Impatience
 - Loss & Avoidance
 - Social Influence & Relatedness
+
+Um die Antwortrate im Chat zu messen wird als Metrik die Zeit zwischen geschriebenen Nachrichten gemessen. Sollte sich diese nach der Implementierung der Gamification Elemente verkleinern so ist die Maßnahme erfolgreich. Gelöst ist die Gamification hier mit einem "gesehen" Flag im Chat und einem zusätzlichen Badge im Profil des Benutzers. Dieses Badge zeigt die durchschnittliche Antwortzeit eines Nutzers an. Die Belohnung gibt sich der User hier selbst indem er durch schnelle Antworten das Badge in seinem Profil möglichst klein hält.
 
 !["Vergleiche Ebay-Kleinanzeigen"](assets/kleinanzeigen.jpg)

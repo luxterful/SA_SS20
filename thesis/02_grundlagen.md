@@ -38,7 +38,7 @@ Diese sind:
 - Unpredictability & Curiosity (Onvorhersehbarkeit & Neugierde)
 - Loss & Avoidance (Verlust & Vermeidung)
 
-Diese Coredrives beschreiben die verschiedenen Trigger der Menschlichen psyche an welchen das Gamification ansetzt um den Benutzer zu motivieren. Mit Hilfe dieser kann besser beschrieben werden wie und warum ein User auf Gemification Elemente reagiert. Dadurch kann man entweder gezielt bestimmte Trigger ansprechen oder im Nachgang analysieren ob das ansprechen bestimmter Trigger sinnvoll ist. In dieser Arbeit wurde zweiteres angewandt.
+Diese Coredrives beschreiben die verschiedenen Trigger der menschlichen Psyche an welchen das Gamification ansetzt um den Benutzer zu motivieren. Mit Hilfe dieser kann besser beschrieben werden wie und warum ein User auf Gemification Elemente reagiert. Dadurch kann man entweder gezielt bestimmte Trigger ansprechen oder im Nachgang analysieren ob das ansprechen bestimmter Trigger sinnvoll ist. In dieser Arbeit wurde zweiteres angewandt.
 
 Zudem definiert das Framework einen Schritt für Schritt Plan um die Umsetzung einer Gamifizierung zu erleichtern. Dieses sogenannte Strategy Dashboard wird in 5 Schritte unterteilt:
 
